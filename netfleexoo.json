@@ -1,0 +1,8 @@
+{
+  "name": "ashuuxoo- Netflix,primevideo,disney,Anime,etc",
+  "description": "All Ott Hindidubbed Platform",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/ashuuxoo/repoxoo/refs/heads/main/plugin.json"
+  ]
+}
