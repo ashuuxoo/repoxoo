@@ -19,29 +19,6 @@
         "name": "Netflix"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=www.mxplayer.in&sz=%size%",
-        "jarFileSize": 585628,
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 101405,
-        "status": 1,
-        "language": "hi",
-        "authors": [
-            "ashuuxoo"
-        ],
-        "tvTypes": [
-            "AsianDrama",
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 11,
-        "internalName": "MPlayerProvider",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/MPlayerProvider.jar",
-        "description": "Indian Movies/Series/Kdrama(Hindi Dubbed)",
-        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/MPlayerProvider.cs3",
-        "name": "MxPlayer"
-    },
-    {
         "iconUrl": "https://www.mp4moviez.glass/images/mp4moviez.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/redowan99/Redowan-CloudStream",
@@ -107,25 +84,44 @@
         "name": "HDhub4u"
     },
     {
-        "iconUrl": "https://9kmovies.claims/m/wp-content/uploads/2019/08/9kmovies.ico",
+        "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/VegaMovies/icon.jpg",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/redowan99/Redowan-CloudStream",
-        "fileSize": 12633,
+        "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
+        "fileSize": 32849,
         "status": 1,
         "language": "hi",
         "authors": [
-            "salman731",
-            "Dilip"
+            "ashuuxoo"
         ],
         "tvTypes": [
-            "Movie",
             "TvSeries",
-            "NSFW"
+            "Movie"
         ],
-        "version": 7,
-        "internalName": "9kMovies",
-        "description": "Included:10HitMovies",
-        "url": "https://raw.githubusercontent.com/redowan99/Redowan-CloudStream/builds/9kMovies.cs3",
-        "name": "9kMovies"
+        "version": 65,
+        "internalName": "VegaMovies",
+        "description": "Includes LuxMovies, Rogmovies",
+        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/VegaMovies.cs3",
+        "name": "VegaMovies"
+    },
+    {
+        "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/Extractors/icon.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
+        "fileSize": 38554,
+        "status": 1,
+        "authors": [
+            "netflee"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "AsianDrama",
+            "Anime"
+        ],
+        "version": 64,
+        "internalName": "Extractors",
+        "description": "Must Install(For other extensions to work properly)",
+        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/Extractors.cs3",
+        "name": "Extractors"
     }
 ]
