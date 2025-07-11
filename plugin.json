@@ -123,5 +123,45 @@
         "description": "Must Install(For other extensions to work properly)",
         "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/Extractors.cs3",
         "name": "Extractors"
+    },
+    {
+        "iconUrl": "https://themoviesflix.it.com/wp-content/uploads/2024/12/cropped-cropped-favicon-32x32-1-180x180.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/redowan99/Redowan-CloudStream",
+        "fileSize": 22249,
+        "status": 1,
+        "language": "hi",
+        "authors": [
+            "ashuuxoo"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 4,
+        "internalName": "TheMoviesFlix",
+        "description": "720p Movies, 1080p movies, Dual Audio Movies, Hindi Dubbed Series, Hollywood Movies",
+        "url": "https://raw.githubusercontent.com/redowan99/Redowan-CloudStream/builds/TheMoviesFlix.cs3",
+        "name": "TheMoviesFlix"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/refs/heads/master/Bollyflix/icon.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
+        "fileSize": 24774,
+        "status": 1,
+        "language": "hi",
+        "authors": [
+            "ashuuxoo"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 21,
+        "internalName": "Bollyflix",
+        "description": "Movies and Series upto 4K",
+        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/Bollyflix.cs3",
+        "name": "Bollyflix"
     }
 ]
